@@ -1,0 +1,5 @@
+build/
+app/build/
+manifestreplace/build/
+*.iml
+.DS_Store
